@@ -1,0 +1,3 @@
+/home/peka/eclipse-workspace/TestExerise/Server/build/CMakeFiles/rebuild_cache.dir
+/home/peka/eclipse-workspace/TestExerise/Server/build/CMakeFiles/TestServer.dir
+/home/peka/eclipse-workspace/TestExerise/Server/build/CMakeFiles/edit_cache.dir

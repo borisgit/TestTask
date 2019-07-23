@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/TestClient.dir/src/MainClient.cpp.o CMakeFiles/TestClient.dir/src/TestClient.cpp.o  -o TestClient -lpthread 
